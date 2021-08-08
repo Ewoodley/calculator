@@ -1,3 +1,29 @@
 body {
 	background-color: DarkTurquoise;
 }
+button
+{
+	border-radius: 85%;
+	
+	background-color: blue;
+	color: white;
+}
+button:hover
+{
+	transition-duration: 0.5s;
+	background-color: cyan;
+	color: darkslategrey;
+}
+.grid-container {
+	display: inline-grid;
+	grid-template-columns: auto auto auto;
+	background-color: green;
+	padding: 5px;
+	
+}
+.grid-item
+{ border: 1px solid;
+padding: 20px
+font-size: 30px
+text-align: center
+}
