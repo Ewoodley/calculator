@@ -19,7 +19,7 @@ button:hover
 	grid-auto-columns: 150px;
 	grid-template-rows: 40px 25px 140px 140px 140px 140px 140px;
 	background-color: green;
-	border-all
+	
 	padding: 15px 25px 15px 25px;
 	grid-column-gap: 5px;
 	grid-row-gap: 5px;
