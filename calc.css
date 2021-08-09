@@ -19,6 +19,7 @@ button:hover
 	grid-auto-columns: 150px;
 	grid-template-rows: 40px 25px 140px 140px 140px 140px 140px;
 	background-color: green;
+	border-all
 	padding: 15px 25px 15px 25px;
 	grid-column-gap: 5px;
 	grid-row-gap: 5px;
@@ -44,6 +45,6 @@ text-align: right;
 
 .margin
 {
-	margin: 350px 750px;
+	margin: 200px 750px;
 
 }
